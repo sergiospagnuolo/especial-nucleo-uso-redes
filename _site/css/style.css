@@ -114,8 +114,7 @@ hr {
 }
 
 .main-search-holder {
-  margin: 0;
-  max-width: 700px
+  margin: 0 auto;
 }
 
 /* CORES EXCLUSIVAS */
