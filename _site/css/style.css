@@ -131,6 +131,9 @@ hr {
   background-color: #19642A;
 }
 
+.list{
+  text-align: center;
+}
 
 @media (max-width:768px) {
   .list li{
