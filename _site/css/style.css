@@ -220,6 +220,7 @@ hr {
     padding: 0;
     font-size: 1.6rem;
     line-height: 2.6rem;
+    text-align:left !important;
     color: #fff !important; }
 
 .toggle:checked + .titleaco + .contentaco {
